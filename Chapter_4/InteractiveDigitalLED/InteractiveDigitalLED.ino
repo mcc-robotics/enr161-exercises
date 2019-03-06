@@ -1,9 +1,13 @@
-/*
+/* InteractiveDigitalLED
+ * 
  * Input/Output Example InteractiveDigitalLED.ino
  * Add the appropriate code between the comment blocks to turn 
  * the LED on or off with the serial input "on" or "off".
- * 
-*/
+ *
+ * Author: 
+ * Assisted by: 
+ * Date: 
+ */
 
 String inputString = "";         // a String to hold incoming data
 bool stringComplete = false;  // whether the string is complete

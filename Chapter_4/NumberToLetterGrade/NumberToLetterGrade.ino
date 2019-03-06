@@ -1,4 +1,11 @@
-
+/* NumberToLetterGrade
+ * 
+ * Homework Problem - Why does this output the wrong information?
+ *
+ * Author: 
+ * Assisted by: 
+ * Date: 
+ */
 
 
 void setup() {

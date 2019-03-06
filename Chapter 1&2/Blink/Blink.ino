@@ -1,8 +1,13 @@
-/*
-  Blink
-
-  Turns an LED on for one second, then off for one second, repeatedly.
-*/
+/* Blink
+ * 
+ * Homework problem - Replace global variable "led" with the built in 
+ * library variable LED_BUILTIN. Don't forget to update comments as
+ * necessary.
+ *
+ * Author: 
+ * Assisted by: 
+ * Date: 
+ */
 
 char led = 13;
 

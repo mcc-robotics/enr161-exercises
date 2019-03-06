@@ -1,3 +1,12 @@
+/* DataTypeSpeeds
+ * 
+ * Homework problem - Exercise to show the difference in speed of
+ * various data types
+ *
+ * Author: 
+ * Assisted by: 
+ * Date: 
+ */
 
 byte byteVar = 0;
 int intVar = 0;
