@@ -1,0 +1,6 @@
+.pioenvs
+CMakeListsPrivate.txt
+platformio.ini
+.idea
+CMakeLists.txt
+cmake-build-debug/
