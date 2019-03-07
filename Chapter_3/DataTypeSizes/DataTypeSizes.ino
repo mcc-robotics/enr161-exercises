@@ -1,4 +1,11 @@
-
+/* DataTypeSizes
+ * 
+ * Homework problem - Exercise to show how to determine data type sizes
+ *
+ * Author: 
+ * Assisted by: 
+ * Date: 
+ */
 
 
 void setup() {

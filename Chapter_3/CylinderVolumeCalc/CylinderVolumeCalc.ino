@@ -1,4 +1,12 @@
-
+/* CylinderVolumeCalc
+ * 
+ * Homework problem - Add appropriate arithmetic and modify the data
+ * types as necessary to create a calculator for cylinder volume.
+ *
+ * Author: 
+ * Assisted by: 
+ * Date: 
+ */
 
 int radius = 2;
 int height = 24;

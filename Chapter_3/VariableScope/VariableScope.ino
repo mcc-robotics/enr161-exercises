@@ -1,3 +1,13 @@
+/* VariableScope
+ * 
+ * Homework exercise - Use the following code to see an example
+ * of the various types of variable scope
+ *
+ * Author: 
+ * Assisted by: 
+ * Date: 
+ */
+
 // This is a global variable, everyone has access
 int globalVariable = 10;
 
@@ -61,4 +71,3 @@ void customFunction(int parameterVariable) {
 
   Serial.println("***customFunction() END\n");
 }
-
