@@ -4,3 +4,4 @@ platformio.ini
 .idea
 CMakeLists.txt
 cmake-build-debug/
+src/main.cpp
