@@ -5,3 +5,4 @@ platformio.ini
 CMakeLists.txt
 cmake-build-debug/
 src/main.cpp
+.piolibdeps
